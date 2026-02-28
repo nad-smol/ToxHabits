@@ -3,7 +3,7 @@
 
 Trained PyTorch model checkpoints (.pt) for ToxNER and ToxUse, plus training hyperparameters. Loaded as releases.
 
-### 1.1. ToxNER checkpoints
+### 1.1. `ToxNER checkpoints`
 
 ToxNER checkpoints. Three files:
 
@@ -27,15 +27,15 @@ ToxUse checkpoints. Same naming logic as ToxNER:
 
 ---
 
-## 2. augmented_supplement/
+## 2. `augmented_supplement/`
 
 Full set of augmented documents before merging with the original ToxHabits train set. Format: brat (.txt + .ann). File names include suffixes such as _aug_syn, _aug_dup1; the part before the suffix is the source document ID from the training corpus.
 
-### 2.1. augmented_supplement/toxner/
+### 2.1. `augmented_supplement/toxner/`
 
 Augmented ToxNER documents: *_aug_syn.txt and *_aug_syn.ann — synonym replacement only.
 
-### 2.2. augmented_supplement/toxuse/
+### 2.2. `augmented_supplement/toxuse/`
 
 Augmented ToxUse documents: *_aug_syn.txt/.ann (synonym replacement) and *_aug_dup1.txt/.ann (additional oversampling of weak classes).
 
@@ -43,11 +43,11 @@ Augmented ToxUse documents: *_aug_syn.txt/.ann (synonym replacement) and *_aug_d
 
 ## 3. Root-level files
 
-### 3.1. synonym_safe_for_augment.tsv
+### 3.1. `synonym_safe_for_augment.tsv`
 
 TSV of (term, candidate) pairs with safe_for_augment=yes and cosine similarity — the main “safe” replacement list for augmentation
 
-### 3.2. checkpoints/hyperparameters.tsv
+### 3.2. `hyperparameters.tsv`
 
 Tab-separated table of training hyperparameters for each checkpoint. Columns: `checkpoint_name`, `task`, `lr`, `batch_size`, `num_epochs`, `weight_decay`, `warmup_ratio`, `dropout`, `max_length`, `seed`, `train_size`, `val_size`, `val_f1`, `notes`. Source: project `output/run_log.tsv` (train phase) and `notes` for dropout where not in the log.
 
