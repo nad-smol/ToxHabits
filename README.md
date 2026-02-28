@@ -1,9 +1,9 @@
 # ToxHabits
-## 1. checkpoints/
+## 1. Models
 
-Trained PyTorch model checkpoints (.pt) for ToxNER and ToxUse, plus training hyperparameters.
+Trained PyTorch model checkpoints (.pt) for ToxNER and ToxUse, plus training hyperparameters. Loaded as releases.
 
-### 1.1. checkpoints/toxner/
+### 1.1. ToxNER checkpoints
 
 ToxNER checkpoints. Three files:
 
@@ -13,7 +13,7 @@ ToxNER checkpoints. Three files:
 | **A2_bsc_toxner_opt_v1_best.pt** | **A2**: encoder BSC-Bio-EHR (`PlanTL-GOB-ES/bsc-bio-ehr-es`) + CRF. **opt_v1**: same Optuna optimization on original train. Main single-model (A2) reported in the paper. |
 | **A2_bsc_toxner_opt_params_aug_best.pt** | Same A2 architecture and **same hyperparameters as opt_v1**, but trained on **merged train** (original + augmented data). Higher validation F1 due to more training examples. |
 
-### 1.2. `checkpoints/toxuse/`
+### 1.2. ToxUse checkpoints
 
 ToxUse checkpoints. Same naming logic as ToxNER:
 
@@ -23,9 +23,7 @@ ToxUse checkpoints. Same naming logic as ToxNER:
 | A2_bsc_toxuse_opt_v1_best.pt | A2 (BSC-Bio-EHR+CRF), opt_v1, original train. Main single-model (A2) for ToxUse. |
 | A2_bsc_toxuse_opt_params_aug_best.pt | A2, same params as opt_v1, trained on merged train (original + augmented). |
 
-### 1.3. checkpoints/hyperparameters.tsv
 
-Tab-separated table of training hyperparameters for each checkpoint. Columns: `checkpoint_name`, `task`, `lr`, `batch_size`, `num_epochs`, `weight_decay`, `warmup_ratio`, `dropout`, `max_length`, `seed`, `train_size`, `val_size`, `val_f1`, `notes`. Source: project `output/run_log.tsv` (train phase) and `notes` for dropout where not in the log.
 
 ---
 
@@ -49,7 +47,11 @@ Augmented ToxUse documents: *_aug_syn.txt/.ann (synonym replacement) and *_aug_d
 
 TSV of (term, candidate) pairs with safe_for_augment=yes and cosine similarity — the main “safe” replacement list for augmentation
 
-### 3.2. `run_predict_on_test.py`
+### 3.2. checkpoints/hyperparameters.tsv
+
+Tab-separated table of training hyperparameters for each checkpoint. Columns: `checkpoint_name`, `task`, `lr`, `batch_size`, `num_epochs`, `weight_decay`, `warmup_ratio`, `dropout`, `max_length`, `seed`, `train_size`, `val_size`, `val_f1`, `notes`. Source: project `output/run_log.tsv` (train phase) and `notes` for dropout where not in the log.
+
+### 3.3. `run_predict_on_test.py`
 
 Python script that runs a single checkpoint on the test set. It selects the correct predictor (A1 vs A2) from the checkpoint filename and calls predict_A1_BETO_improved.py or predict_A2_bsc_improved.py. Run from the project root.
 
