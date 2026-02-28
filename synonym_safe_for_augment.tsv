@@ -1,0 +1,1226 @@
+term	candidate	cosine_sim	safe_for_augment
+0,5 g	0.5 g	0.9736	yes
+0,5 g	0.5g	0.9401	yes
+0,5 gramos	0.5 gramos	0.9711	yes
+0,5 mg	0.5 mg	0.9692	yes
+0.5 g	0,5 g	0.9736	yes
+0.5 g	0.5g	0.9727	yes
+0.5 gramos	0,5 gramos	0.9711	yes
+0.5 mg	0,5 mg	0.9692	yes
+0.5g	0.5 g	0.9727	yes
+0.5g	0,5 g	0.9401	yes
+1 a 3 gramos	1 a 3 gramos al día	0.9269	yes
+1 a 3 gramos al día	1 a 3 gramos	0.9269	yes
+1 año	por 1 año	0.9175	yes
+1 año	durante 1 año	0.9156	yes
+1 carajillo	carajillo	0.9074	yes
+1 g	1g	0.9576	yes
+1 g	hasta 1 g	0.9260	yes
+1 gramo por episodio	alrededor de 1 gramo por episodio	0.9425	yes
+1 o dos varias veces a la semana	varias veces a la semana	0.9335	yes
+1 whisky	whisky	0.9082	yes
+1-2	1-2 vasos	0.9476	yes
+1-2	1-2 cigarros	0.9407	yes
+1-2	1-2 litros	0.9376	yes
+1-2	1-2 cervezas	0.9274	yes
+1-2 consumiciones por episodio de consumo	1-2 consumiciones	0.8942	yes
+10 años/paquete	más de 10 años/paquete	0.9363	yes
+10 cigarrillo	10 cigarrillos	0.9845	yes
+10 cigarrillos	10 cigarrillo	0.9845	yes
+10 cigarrillos / día	10 cigarrillos/ día.	0.9592	yes
+10 cigarrillos / día	10 cigarrillos/día	0.9570	yes
+10 cigarrillos/ día.	10 cigarrillos/día	0.9672	yes
+10 cigarrillos/ día.	10 cigarrillos / día	0.9592	yes
+10 cigarrillos/día	10 cigarros/día	0.9824	yes
+10 cigarros/día	10 cigarrillos/día	0.9824	yes
+10 consumiciones	consumiciones	0.9084	yes
+10 pa-quetes/año	10 paquetes/año	0.8940	yes
+10-12 porros	llegando a 10-12 porros	0.9390	yes
+10-20 ml	10-20ml	0.9749	yes
+10-20ml	10-20 ml	0.9749	yes
+100 mg	100mg	0.9436	yes
+100mg	100 mg	0.9436	yes
+11 de febrero de 2013	último consumo el día 11 de febrero de 2013	0.8966	yes
+12 años	inicio 12 años	0.9402	yes
+12 años	con 12 años	0.9379	yes
+12 años antes	12 años	0.9230	yes
+12 cigarrillos	12 cigarrillos aproximadamente	0.9325	yes
+12 cigarrillos aproximadamente	12 cigarrillos	0.9325	yes
+13 años	con 13 años	0.9418	yes
+13 años	inicio 13 años	0.9370	yes
+14 años	con 14 años	0.9354	yes
+15 cigarrillos	15 cigarros	0.9951	yes
+15 cigarrillos	aproximadamente 15 cigarrillos	0.9180	yes
+15 cigarrillos/día	15 cigarros/día	0.9851	yes
+15 cigarros	15 cigarrillos	0.9951	yes
+15 cigarros	aproximadamente 15 cigarrillos	0.9130	yes
+15 cigarros/día	15 cigarrillos/día	0.9851	yes
+15 ube	unas 15 ube	0.9211	yes
+16 años	con 16 años	0.9463	yes
+16 años	inicio 16 años	0.9392	yes
+16 mg	16mg	0.9469	yes
+16mg	16 mg	0.9469	yes
+18 años	con 18 años	0.9413	yes
+19 años	con 19 años	0.9448	yes
+1997	en 1997	0.8995	yes
+1g	1 g	0.9576	yes
+1g	hasta 1 g	0.8914	yes
+2 años de evolución	de 2 años de evolución	0.9639	yes
+2 chupitos	chupitos	0.9159	yes
+2 cigarrillos/día	2 cigarros/día	0.9819	yes
+2 cigarros/día	2 cigarrillos/día	0.9819	yes
+2 comprimidos	2 tabletas	0.9629	yes
+2 copas	2 vasos	0.9782	yes
+2 mg/0,5	2 mg/0,5 mg	0.9783	yes
+2 mg/0,5 mg	2 mg/0,5	0.9783	yes
+2 paquetes cigarrillos	2 paquetes de cigarrillos	0.9702	yes
+2 paquetes de cigarrillos	2 paquetes cigarrillos	0.9702	yes
+2 semanas después	2 semanas	0.9273	yes
+2 tabletas	2 comprimidos	0.9629	yes
+2 unidades thc	2 unidades	0.8692	yes
+2 vasos	2 copas	0.9782	yes
+2-3 cigarrillos	2-3 cigarros	0.9948	yes
+2-3 cigarros	2-3 cigarrillos	0.9948	yes
+20 cig	20 cigarros	0.9938	yes
+20 cig	20 cigarrillos	0.9853	yes
+20 cig./día	20 cigarros/día	0.9546	yes
+20 cig./día	20 cigarrillos/día	0.9366	yes
+20 cigarrillos	20 cigarros	0.9933	yes
+20 cigarrillos	20 cig	0.9853	yes
+20 cigarrillos/ día	20 cigarrillos/día	0.9834	yes
+20 cigarrillos/ día	20 cigarros/día	0.9654	yes
+20 cigarrillos/día	20 cigarrillos/ día	0.9834	yes
+20 cigarrillos/día	20 cigarros/día	0.9827	yes
+20 cigarros	20 cig	0.9938	yes
+20 cigarros	20 cigarrillos	0.9933	yes
+20 cigarros/día	20 cigarrillos/día	0.9827	yes
+20 cigarros/día	20 cigarrillos/ día	0.9654	yes
+20 comprimidos	aproximadamente 20 comprimidos	0.9362	yes
+20 paquetes-año	20 paquetes-años	0.9686	yes
+20 paquetes-años	20 paquetes-año	0.9686	yes
+20-30 cigarrillos/día	20-30 cigarros/día	0.9892	yes
+20-30 cigarros/día	20-30 cigarrillos/día	0.9892	yes
+2007	desde 2007	0.8964	yes
+2007	en 2007	0.8930	yes
+2012	en 2012	0.9047	yes
+24 de mayo de 2005	el 24 de mayo de 2005	0.9730	yes
+24 h	24 horas	0.9496	yes
+24 h	24horas	0.9159	yes
+24 h	cada 24 horas	0.8816	yes
+24 horas	24 h	0.9496	yes
+24 horas	24horas	0.9298	yes
+24 horas	cada 24 horas	0.9181	yes
+24 mg	24mg	0.9447	yes
+24horas	24 horas	0.9298	yes
+24horas	24 h	0.9159	yes
+24mg	24 mg	0.9447	yes
+25 cigarrillos /día	25 cigarrillos/día	0.9761	yes
+25 cigarrillos /día	25 cigarros/día	0.9617	yes
+25 cigarrillos/día	25 cigarros/día	0.9853	yes
+25 cigarrillos/día	25 cigarrillos /día	0.9761	yes
+25 cigarros/día	25 cigarrillos/día	0.9853	yes
+25 cigarros/día	aproximadamente 25 cigarros/día	0.9677	yes
+25 cigarros/día	25 cigarrillos /día	0.9617	yes
+25 mg	25mg	0.9471	yes
+25mg	25 mg	0.9471	yes
+3 a 5 cervezas	de 3 a 5 cervezas	0.9698	yes
+3 días antes	3 días antes de la presentación	0.9003	yes
+3 días antes de la presentación	3 días antes	0.9003	yes
+3 ube	ube	0.8837	yes
+3,4-metilendioximetanfetamina	mdma (3,4-metilendioximetanfetamina	0.9611	yes
+3-4	3-4 puros	0.9660	yes
+3-4	3-4 cigarrillos	0.9500	yes
+3-4	3-4 copas	0.9482	yes
+3-4	3-4 litros	0.9390	yes
+3-4	3-4 cigarros	0.9375	yes
+3-4 cigarrillos	3-4 cigarros	0.9932	yes
+3-4 cigarros	3-4 cigarrillos	0.9932	yes
+3-4 meses	durante 3-4 meses	0.9507	yes
+3-4g	aproximadamente 3-4 g	0.9232	yes
+30 años	por 30 años	0.9217	yes
+30 cigarrillos	30 cigarros	0.9930	yes
+30 cigarrillos /dia	30 cigarrillos/día	0.9492	yes
+30 cigarrillos /dia	30 cigarros/día	0.9433	yes
+30 cigarrillos/día	30 cigarros/día	0.9857	yes
+30 cigarros	30 cigarrillos	0.9930	yes
+30 cigarros/día	30 cigarrillos/día	0.9857	yes
+30 cigarros/día	aproximadamente 30 cigarros/día	0.9736	yes
+30 paquetes/ año	30 paquetes/año	0.9728	yes
+30 paquetes/año	30 paquetes/ año	0.9728	yes
+300 mg	hasta 300 mg	0.9275	yes
+31 ube	ube	0.8902	yes
+35 años	durante 35 años	0.9067	yes
+36 h después	36 horas	0.9134	yes
+36 horas	36 h después	0.9134	yes
+4 meses	hace 4 meses	0.9072	yes
+4 mg	4mg	0.9427	yes
+4 mg/1 mg	4 mg/1mg	0.9863	yes
+4 mg/1mg	4 mg/1 mg	0.9863	yes
+4 ube	ube	0.9121	yes
+4-5	4-5 frascos	0.9582	yes
+4-5	4-5 copas	0.9524	yes
+4-5	4-5 cervezas	0.9446	yes
+4-5	4-5 papelinas	0.9360	yes
+4-5 cañas o cervezas	4-5 cervezas	0.8842	yes
+4-5 cervezas	4-5	0.9446	yes
+4-5 copas	4-5	0.9524	yes
+4-5 frascos	4-5	0.9582	yes
+4-5 papelinas	4-5	0.9360	yes
+4-6	4-6 porros	0.8970	yes
+40 cigarrillos	40 cigarros	0.9910	yes
+40 cigarrillos/ día	40 cigarrillos/día	0.9844	yes
+40 cigarrillos/día	40 cigarrillos/ día	0.9844	yes
+40 cigarros	40 cigarrillos	0.9910	yes
+40-60 cigarrillos/día	40-60 cigarros/día	0.9906	yes
+40-60 cigarros/día	40-60 cigarrillos/día	0.9906	yes
+45 paq-año	45 paquetes-año	0.9715	yes
+45 paquetes-año	45 paq-año	0.9715	yes
+45 paquetes/ año	45 paquetes/año	0.9729	yes
+45 paquetes/año	45 paquetes/ año	0.9729	yes
+48 horas	hace 48 horas	0.9301	yes
+4mg	4 mg	0.9427	yes
+5 años	por 5 años	0.9286	yes
+5 bebidas alcohólicas	bebidas alcohólica	0.8407	yes
+5 cigarrillos	5 cigarros	0.9940	yes
+5 cigarros	5 cigarrillos	0.9940	yes
+5 días	hace 5 días	0.8982	yes
+5 ube	ube	0.9072	yes
+5-10 unidades	5-10 unidades/día	0.9393	yes
+5-10 unidades/día	5-10 unidades	0.9393	yes
+5-6 cervezas	de 5-6 cervezas	0.9607	yes
+50 mgr	50 mg	0.8849	yes
+6 cigarrillos/ día	6 cigarros/día	0.9628	yes
+6 cigarros/día	6 cigarrillos/ día	0.9628	yes
+6 meses	6 meses atrás	0.9346	yes
+6 meses	6 meses antes	0.9208	yes
+6 meses antes	6 meses	0.9208	yes
+6 meses atrás	6 meses	0.9346	yes
+6 meses atrás	hace 6 meses	0.9256	yes
+600 mg	aproximadamente 600 mg	0.9452	yes
+62 ubes	ubes	0.8672	yes
+7 años seguidos	7 años	0.9285	yes
+7-8 cubatas	llegando a los 7-8 cubatas	0.9100	yes
+8 a 10 cigarrillos	de 8 a 10 cigarrillos	0.9629	yes
+8 porros	unos 8 porros	0.9471	yes
+80 paquetes/añ	80 paquetes/año	0.9111	yes
+90 paquetes-año	90 paquetes-años	0.9647	yes
+90 paquetes-años	90 paquetes-año	0.9647	yes
+a diario	no a diario	0.9253	yes
+a diario	manera diaria	0.9172	yes
+a diario	prácticamente a diario	0.9133	yes
+a diario	prácticamente diario	0.9033	yes
+a diario	tomas diarias	0.9028	yes
+a la edad de 16 años	inicia a la edad de 16 años	0.9813	yes
+a la semana	a la semana;	0.9569	yes
+a la semana	una vez a la semana	0.8990	yes
+a la semana	un día a la semana	0.8986	yes
+a la semana	cuatro días a la semana	0.8980	yes
+a la semana;	a la semana	0.9569	yes
+a lo largo del día	durante todo el día	0.8768	yes
+a lo largo del día	continuamente durante todo el día	0.8716	yes
+a los 14 dias	a los 14	0.9186	yes
+a los 15	a los 15 también	0.9611	yes
+a los 15 años	iniciado a los 15 años	0.9709	yes
+a los 15 también	a los 15	0.9611	yes
+a los 16 años	a los16 años	0.9664	yes
+a los 17 años	a los 17 años inicia	0.9764	yes
+a los 17 años inicia	a los 17 años	0.9764	yes
+a los 18 años	iniciado a los 18 años	0.9737	yes
+a los 18 años	comienza a los 18 años	0.9706	yes
+a los 6 días de comenzar	a los 6 días del inicio del tratamiento con metadona	0.9235	yes
+a los 6 días del inicio del tratamiento con metadona	a los 6 días de comenzar	0.9235	yes
+a los16 años	a los 16 años	0.9664	yes
+aas	eaas	0.8758	yes
+abstinencial	abstinente	0.9370	yes
+abstinente	abstinencial	0.9370	yes
+abstinente	abstinente a las 10 semanas	0.8100	yes
+adicciones	adicción	0.9954	yes
+advp	exadvp	0.8921	yes
+advp	ex−advp	0.8600	yes
+agonistas opiáceos	opiáceo	0.9149	yes
+al año	por año	0.9315	yes
+al dia	al día	0.9383	yes
+al dia	por día	0.8906	yes
+al día	al dia	0.9383	yes
+al día	por día	0.9277	yes
+al menos una vez a la semana	una vez a la semana	0.9552	yes
+al mes	por mes	0.9092	yes
+al principio solo los fines de semana	al principio sólo los fines de semana	0.9836	yes
+al principio sólo los fines de semana	al principio solo los fines de semana	0.9836	yes
+al salir de trabajar	al salir	0.8464	yes
+alcohol	alcoholismo	0.9857	yes
+alcohol	alcohólicos	0.9832	yes
+alcohol	alcohólica	0.9814	yes
+alcohol etílico	etílico	0.9301	yes
+alcohol etílico	alcohol metílico	0.9069	yes
+alcohol etílico	etílicos	0.8921	yes
+alcohol etílico	etílica	0.8825	yes
+alcohol metílico	alcohol etílico	0.9069	yes
+alcohol metílico	etílico	0.8766	yes
+alcohólica	alcohólicos	0.9914	yes
+alcohólico	alcohólica	0.9900	yes
+alcohólico	alcohólicos	0.9847	yes
+alcohólicos	alcohólica	0.9914	yes
+alguna benzodiacepina	benzodiacepina	0.9436	yes
+alguna benzodiacepina	benzodiacepin	0.9188	yes
+algún	algunos	0.9834	yes
+algún ansiolítico	ansiolítico	0.9271	yes
+algún fin de semana	de fin de semana	0.9628	yes
+algún fin de semana	fin de semana	0.9614	yes
+alrededor de 1 gramo por episodio	1 gramo por episodio	0.9425	yes
+alrededor de tres veces por semana	tres veces por semana	0.9444	yes
+alta graduación	alto	0.8922	yes
+alto	elevado	0.9791	yes
+amfetaminas	metanfetaminas	0.9282	yes
+amfetaminas	metaanfetaminas	0.9058	yes
+amfetaminas	metanfetaminas (cristal	0.8875	yes
+anabolizantes	anabólicos	0.9274	yes
+anabólicos	esteroides anabólicos	0.9543	yes
+anabólicos	anabolizantes	0.9274	yes
+anabólicos	ciclo de anabólicos	0.8873	yes
+anabólicos	ciclos de anabólicos	0.8800	yes
+anabólicos	esteroides anabolizantes	0.8795	yes
+anfetamina	sulfato de anfetamina	0.8828	yes
+anfetamina	metanfetamina	0.8795	yes
+anfetamina	metafetamina	0.8702	yes
+anfetamina	amfetaminas	0.8646	yes
+ansiolítico	algún ansiolítico	0.9271	yes
+ansiolítico	sedantes ansiolíticos	0.8429	yes
+antagonista opiáceo	opiáceo	0.9197	yes
+anteriormente cuando era adolescente	cuando era adolescente	0.9570	yes
+antes del ingreso	noche previa al ingreso	0.9182	yes
+antidepresivas	antidepresivos tricíclicos	0.8720	yes
+antidepresivos tricíclicos	antidepresivas	0.8720	yes
+análisis toxicológicos	toxicológicos	0.9413	yes
+análisis toxicológicos	toxicológica	0.9107	yes
+análisis toxicológicos	toxicológicas	0.8888	yes
+aproximadamente 15 cigarrillos	15 cigarrillos	0.9180	yes
+aproximadamente 15 cigarrillos	15 cigarros	0.9130	yes
+aproximadamente 20 cigarrillos/día	aproximadamente, 20 cigarrillos/día	0.9777	yes
+aproximadamente 20 cigarrillos/día	20 cigarrillos/día	0.9738	yes
+aproximadamente 20 comprimidos	20 comprimidos	0.9362	yes
+aproximadamente 25 cigarros/día	25 cigarros/día	0.9677	yes
+aproximadamente 25 cigarros/día	25 cigarrillos/día	0.9602	yes
+aproximadamente 3-4 cigarrillos	3-4 cigarrillos	0.9514	yes
+aproximadamente 3-4 cigarrillos	3-4 cigarros	0.9450	yes
+aproximadamente 3-4 g	3-4g	0.9232	yes
+aproximadamente 30 cigarros/día	30 cigarros/día	0.9736	yes
+aproximadamente 30 cigarros/día	30 cigarrillos/día	0.9657	yes
+aproximadamente 600 mg	600 mg	0.9452	yes
+aproximadamente un litro	un litro	0.9310	yes
+aproximadamente un mes	hacía aproximadamente un mes	0.9497	yes
+aproximadamente un mes	un mes	0.9303	yes
+aproximadamente, 20 cigarrillos/día	aproximadamente 20 cigarrillos/día	0.9777	yes
+ayahuasca	ayahuasca o yagé	0.8674	yes
+ayahuasca o yagé	ayahuasca	0.8674	yes
+año	años	0.8879	yes
+años	durante años	0.8960	yes
+años	5 años	0.8904	yes
+años	año	0.8879	yes
+años	18 años	0.8857	yes
+años	4 años	0.8835	yes
+be	cervezas	0.9902	yes
+bebedor	beber	0.9757	yes
+bebidas	bebida	0.9937	yes
+bebidas alcohólicas	bebida alcohólica	0.9063	yes
+bebidas fermentadas	fermentados	0.8647	yes
+bebido	ha bebido	0.8753	yes
+benzo-diacepinas	benzo-diacepinas;	0.9380	yes
+benzo-diacepinas;	benzo-diacepinas	0.9380	yes
+benzodiacepin	benzodiacepina	0.9745	yes
+benzodiacepin	alguna benzodiacepina	0.9188	yes
+benzodiacepin	benzodiazepina	0.8494	yes
+benzodiacepina	benzodiacepin	0.9745	yes
+benzodiacepina	alguna benzodiacepina	0.9436	yes
+benzodiacepina	benzodiazepina	0.8719	yes
+benzodiacepinas	benzodiazepinas	0.9817	yes
+benzodiazepinas	benzodiacepinas	0.9817	yes
+binges 3-4 días al mes	binges de 3-4 días al mes	0.9873	yes
+binges de 3-4 días al mes	binges 3-4 días al mes	0.9873	yes
+bolas de hachís	hachís	0.8610	yes
+borrachera	borracho	0.8346	yes
+borracho	borrachera	0.8346	yes
+buprenorfina- naloxona	buprenorfina-naloxona	0.9756	yes
+buprenorfina-naloxona	buprenorfina- naloxona	0.9756	yes
+buprenorfina/ naloxona	buprenorfina/naloxona	0.9709	yes
+buprenorfina/ naloxona	buprenorfina/naloxona2	0.9542	yes
+buprenorfina/naloxona	buprenorfina/naloxona2	0.9776	yes
+buprenorfina/naloxona	buprenorfina/ naloxona	0.9709	yes
+buprenorfina/naloxona2	buprenorfina/naloxona	0.9776	yes
+buprenorfina/naloxona2	buprenorfina/ naloxona	0.9542	yes
+buprenorfina/naloxone	buprenorfina/naloxona2	0.9069	yes
+buprenorfina/naloxone	buprenorfina/naloxona	0.8978	yes
+cada 24 horas	24 horas	0.9181	yes
+cada 24 horas	24 h	0.8816	yes
+cada dos meses	dos meses	0.9031	yes
+cada día del fin de semana	el fin de semana	0.9216	yes
+cada noche del fin de semana	cada fin de semana	0.9252	yes
+cada tres días	tres días	0.9297	yes
+cajetillas	dos cajetillas	0.9222	yes
+carajillo	1 carajillo	0.9074	yes
+casi a diario	casi diario	0.9247	yes
+casi a diario	a diario	0.8979	yes
+casi diario	casi a diario	0.9247	yes
+casi diario	a diario	0.8868	yes
+casi todos los días	todos los días	0.9476	yes
+casi todos los fines de semana	todos los fines de semana	0.9762	yes
+cerveza	cervezas	0.9889	yes
+chupitos	2 chupitos	0.9159	yes
+chupitos	2 «chupitos»	0.8585	yes
+ciclo de anabólicos	ciclos de anabólicos	0.9852	yes
+ciclo de anabólicos	anabólicos	0.8873	yes
+ciclos de anabólicos	ciclo de anabólicos	0.9852	yes
+ciclos de anabólicos	anabólicos	0.8800	yes
+cigarrillo	cigarrillos	0.9955	yes
+cigarrillo	cigarro	0.9943	yes
+cigarrillos	cigarrillo	0.9955	yes
+cigarro	cigarros	0.9978	yes
+cigarros	cigarro	0.9978	yes
+cigarros de hachís	hachís	0.8617	yes
+cigarros habanos	dos cigarros habanos	0.8881	yes
+cinco días consecutivos, generalmente dos a tres veces al mes	dos a tres veces al mes	0.9185	yes
+cinco meses	cinco meses después	0.9108	yes
+cinco meses después	cinco meses	0.9108	yes
+clorhidrato de cocaína	cocaína clorhidrato	0.9255	yes
+clorhidrato de trihexifenidilo	trihexifenidilo	0.9721	yes
+cloruro mórfico	mórficos	0.8519	yes
+coca	cocaína	0.9792	yes
+cocaina	cocaína clorhidrato	0.8964	yes
+cocaína clorhidrato	cocaína	0.9391	yes
+colillas de cigarrillos	colillas de cigarros de tabaco	0.9424	yes
+colillas de cigarros de tabaco	colillas de cigarrillos	0.9424	yes
+combinado	combinados	0.9953	yes
+comienza a los 18 años	a los 18 años	0.9706	yes
+con 12 años	con 12 años cumplidos	0.9518	yes
+con 12 años cumplidos	con 12 años	0.9518	yes
+con 12 años cumplidos	inicio con 12 años	0.9431	yes
+con 19 años	19 años	0.9448	yes
+con mucha frecuencia	mucha frecuencia	0.9290	yes
+con-sumió	con-sumía	0.8399	yes
+consume	consumen	0.9960	yes
+consumen	consume	0.9960	yes
+consumidor	consumidores	0.9960	yes
+consumidora	no consumidora	0.9322	yes
+consumidores	consumidor	0.9960	yes
+consumirla	consumir	0.8744	yes
+consumo continuado	consumo	0.9037	yes
+continuamente durante todo el día	durante todo el día	0.9757	yes
+continuamente durante todo el día	a lo largo del día	0.8716	yes
+cristal de metanfetamina	metanfetamina de cristal	0.9518	yes
+cristal de metanfetamina	metanfetamina cristalina	0.9278	yes
+crónica	crónico	0.9942	yes
+crónico	crónica	0.9942	yes
+crónico desde su adolescencia	desde su adolescencia	0.9607	yes
+cualquier otra droga recreativa	otra droga recreativa	0.9565	yes
+cuando era adolescente	anteriormente cuando era adolescente	0.9570	yes
+cuando utiliza mefedrona	mefedrona	0.9143	yes
+cuando utiliza mefedrona	mefredrona	0.8731	yes
+cuando utiliza mefedrona	mephedrone	0.8381	yes
+cuatro días a la semana	tres a cuatro días a la semana	0.9623	yes
+cuatro días a la semana	a la semana	0.8980	yes
+cubalibres	2-3 cubalibres	0.8644	yes
+cánnabis	cannabis orgánico	0.9018	yes
+cánnabis	cannabis sintético	0.9003	yes
+de 2 años de evolución	2 años de evolución	0.9639	yes
+de 3 a 5 cervezas	3 a 5 cervezas	0.9698	yes
+de 5-6 cervezas	5-6 cervezas	0.9607	yes
+de 8 a 10 cigarrillos	8 a 10 cigarrillos	0.9629	yes
+de fin de semana	patrón fin de semana	0.9668	yes
+de fin de semana	en fin de semana	0.9643	yes
+de fin de semana	algún fin de semana	0.9628	yes
+de fin de semana	de fines de semana	0.9622	yes
+de fin de semana	fin de semana	0.9601	yes
+de fines de semana	fines de semana	0.9632	yes
+de fines de semana	de fin de semana	0.9622	yes
+de forma esporádica	en forma esporádica	0.9606	yes
+de forma esporádica	de manera esporádica	0.9219	yes
+de forma habitual	de forma regular	0.9078	yes
+de forma habitual	de manera habitual	0.9031	yes
+de forma ocasional	forma ocasional	0.9115	yes
+de forma ocasional	de manera ocasional	0.9086	yes
+de forma regular	de forma habitual	0.9078	yes
+de larga data	larga data	0.8761	yes
+de manera esporádica	de forma esporádica	0.9219	yes
+de manera esporádica	en forma esporádica	0.8872	yes
+de manera habitual	de forma habitual	0.9031	yes
+de manera ocasional	de forma ocasional	0.9086	yes
+de manera ocasional	forma ocasional	0.8698	yes
+de medio a un gramo	medio a un gramo	0.9665	yes
+decanoato de nandrolona	nandrolona	0.8928	yes
+delta-9-tetrahidrocannabinol	tetrahidrocannabinol	0.9352	yes
+delta-9-tetrahidrocannabinol	tetrahidrocanabinol	0.8880	yes
+demás sustancias	otras sustancias	0.9454	yes
+derivado de dihidrotestosterona	dihidrotestosterona	0.8899	yes
+derivados anfetamínicos	anfetamina	0.8529	yes
+derivados del ácido lisérgico	ácido lisérgico	0.8978	yes
+desde 20 años atrás	desde los 20 años	0.9229	yes
+desde 20 años atrás	hace 20 años	0.9195	yes
+desde 7 años	7 años	0.9189	yes
+desde 8 años atrás	hace 8 años	0.9073	yes
+desde cuatro años atrás	hace cuatro años	0.9201	yes
+desde el inicio del tratamiento	desde el inicio del tratamiento (en abril de 2010	0.9094	yes
+desde el inicio del tratamiento (en abril de 2010	desde el inicio del tratamiento	0.9094	yes
+desde hace 1 año	desde hace 1 año,	0.9769	yes
+desde hace 1 año,	desde hace 1 año	0.9769	yes
+desde hace 10 años	desde hacía 10 años	0.9596	yes
+desde hace 20 años	desde hacía 20 años	0.9658	yes
+desde hace 4 años no consume	desde hace 4 años	0.9450	yes
+desde hace 6	desde hace 6 meses	0.9511	yes
+desde hace tres años	desde hacía tres años	0.9661	yes
+desde hacía 10 años	desde hace 10 años	0.9596	yes
+desde hacía 20 años	desde hace 20 años	0.9658	yes
+desde hacía tres años	desde hace tres años	0.9661	yes
+desde los 18	desde los 18 años	0.9472	yes
+desde los 20 años de edad	desde los 20 años de edad;	0.9748	yes
+desde los 20 años de edad;	desde los 20 años de edad	0.9748	yes
+desde mayo de 1998	mayo de 1998	0.9480	yes
+desde su adolescencia	crónico desde su adolescencia	0.9607	yes
+desintoxicando	desintoxicarse	0.8556	yes
+destilados y fermentados	fermentados	0.8734	yes
+dia	día	0.9486	yes
+diaria	diarias	0.9822	yes
+diaria	diariamente	0.9791	yes
+diariamente	diaria	0.9791	yes
+diariamente	diarias	0.9751	yes
+diarias	diaria	0.9822	yes
+diazepán	nordiazepam	0.8830	yes
+dietilamida de ácido lisérgico	lsd (dietilamida de ácido lisérgico	0.9358	yes
+dihidrotestosterona	derivado de dihidrotestosterona	0.8899	yes
+diversas sustancias tóxicas	sustancias tóxicas	0.9333	yes
+dos cajetillas	cajetillas	0.9222	yes
+dos cigarros habanos	cigarros habanos	0.8881	yes
+dos meses	dos meses después	0.9144	yes
+dos meses de abstinencia	dos meses	0.8957	yes
+dos o tres	dos o tres tazas	0.9693	yes
+dos o tres	dos o tres copas	0.9514	yes
+dos o tres	cada dos o tres días	0.8838	yes
+dos o tres copas	dos o tres	0.9514	yes
+dos o tres tazas	dos o tres	0.9693	yes
+dos últimos años	en los dos últimos años	0.9023	yes
+dosis	dosis moderadas	0.9270	yes
+dosis	dosis desconocida	0.9244	yes
+dosis desconocida	dosis	0.9244	yes
+dosis moderadas	dosis	0.9270	yes
+drogadicción	toxicomanía	0.9007	yes
+drogadicta	drogadictos	0.9300	yes
+drogadictos	drogadicta	0.9300	yes
+drogas	droga	0.9789	yes
+drogas de abuso	otras drogas de abuso	0.9553	yes
+drogas de diseño (cristal	drogas de diseño (cristal y cocaína	0.9357	yes
+drogas de diseño (cristal	drogas de diseño	0.8859	yes
+drogas de diseño (cristal y cocaína	drogas de diseño (cristal	0.9357	yes
+drogas endovenosas	endovenosas	0.9311	yes
+drogodependencias	adicción	0.9947	yes
+drogodependiente	drogodependientes	0.8086	yes
+drogodependientes	drogodependiente	0.8086	yes
+durante 1 año	por 1 año	0.9493	yes
+durante 3 años	mantiene durante 3 años	0.9432	yes
+durante 3-4 meses	3-4 meses	0.9507	yes
+durante 30 años	por 30 años	0.9449	yes
+durante 40 años	por 40 años	0.9758	yes
+durante 40 años	haciéndolo 40 años	0.9539	yes
+durante 5 años	por 5 años	0.9527	yes
+durante el último año	el último año	0.9546	yes
+durante muchos años	muchos años	0.8943	yes
+durante más de 10 años	más de 10 años	0.9378	yes
+durante todo el día	continuamente durante todo el día	0.9757	yes
+durante todo el día	a lo largo del día	0.8768	yes
+durante una semana	una semana	0.9330	yes
+durante unos meses	unos meses	0.9220	yes
+durante varios años	por varios años	0.9544	yes
+duró tres días	tres días	0.9237	yes
+día	dia	0.9486	yes
+día	por día	0.9006	yes
+día 0	día	0.8737	yes
+día 0	dia	0.8698	yes
+eaas	aas	0.8758	yes
+ebriedad	ebrio	0.8503	yes
+ebrio	ebriedad	0.8503	yes
+el 24 de mayo de 2005	24 de mayo de 2005	0.9730	yes
+el día anterior	el día previo	0.9634	yes
+el día previo	el día anterior	0.9634	yes
+el fin de semana	fin de semana	0.9638	yes
+el fin de semana	de fin de semana	0.9560	yes
+el último año	durante el último año	0.9546	yes
+el último año	en el último año	0.9480	yes
+el último año	último año	0.9259	yes
+embriaguez	hasta la embriaguez	0.8461	yes
+en 24h	24horas	0.8753	yes
+en 24h	24 horas	0.8721	yes
+en cantidad moderada	en cantidades moderadas	0.9188	yes
+en cantidades moderadas	en cantidad moderada	0.9188	yes
+en el mes de junio	mes de junio	0.9150	yes
+en el último año	el último año	0.9480	yes
+en esos años	en esos años de tratamiento	0.8857	yes
+en esos años de tratamiento	en esos años	0.8857	yes
+en fin de semana	de fin de semana	0.9643	yes
+en fin de semana	fin de semana	0.9584	yes
+en fin de semana	en fines de semana	0.9582	yes
+en fines de semana	los fines de semana	0.9669	yes
+en forma esporádica	de forma esporádica	0.9606	yes
+en grandes cantidades	grandes cantidades	0.9446	yes
+en la adolescencia y juventud	en la adolescencia	0.9207	yes
+en octubre de 2012	octubre de 2012	0.9656	yes
+en octubre de 2012	en octubre del 2012	0.9593	yes
+en octubre del 2012	en octubre de 2012	0.9593	yes
+en octubre del 2012	octubre de 2012	0.9219	yes
+en sólo dos ocasiones	solo dos ocasiones	0.9317	yes
+endovenosa	endovenoso	0.9953	yes
+endovenosas	drogas endovenosas	0.9311	yes
+endovenosas	vía endovenosa	0.8912	yes
+endovenosas	uso intravenoso	0.8693	yes
+endovenoso	endovenosa	0.9953	yes
+endovenoso	intravenoso	0.9928	yes
+enol	enolismo	0.9395	yes
+enol	enolísmo	0.9241	yes
+enol	enólica	0.9187	yes
+enolismo	enol	0.9395	yes
+enolismo	enolísmo	0.9230	yes
+enolísmo	enol	0.9241	yes
+enolísmo	enolismo	0.9230	yes
+enolísmo	exenolismo	0.8840	yes
+enólica	enol	0.9187	yes
+enólica	hábito enólico	0.9009	yes
+episódico	episódicos	0.9567	yes
+episódicos	episódico	0.9567	yes
+ese día	día	0.8811	yes
+esnifaba	esnifada	0.9682	yes
+esnifaba	esnifar	0.9595	yes
+esnifaba	esnifadas	0.9588	yes
+esnifaba	esnifado	0.9554	yes
+esnifaba	esnifados	0.9408	yes
+esnifada	esnifado	0.9863	yes
+esnifada	esnifadas	0.9795	yes
+esnifada	esnifados	0.9748	yes
+esnifada	esnifaba	0.9682	yes
+esnifada	esnifar	0.9656	yes
+esnifada en forma de clorhidrato	esnifada	0.8859	yes
+esnifada en forma de clorhidrato	esnifado	0.8829	yes
+esnifada en forma de clorhidrato	esnifados	0.8722	yes
+esnifadas	esnifada	0.9795	yes
+esnifadas	esnifado	0.9794	yes
+esnifadas	esnifados	0.9706	yes
+esnifadas	esnifaba	0.9588	yes
+esnifadas	esnifar	0.9574	yes
+esnifado	esnifada	0.9863	yes
+esnifado	esnifadas	0.9794	yes
+esnifado	esnifados	0.9764	yes
+esnifado	esnifar	0.9601	yes
+esnifado	esnifaba	0.9554	yes
+esnifados	esnifado	0.9764	yes
+esnifados	esnifada	0.9748	yes
+esnifados	esnifadas	0.9706	yes
+esnifados	vía esnifada	0.9477	yes
+esnifados	esnifar	0.9475	yes
+esnifar	esnifada	0.9656	yes
+esnifar	esnifado	0.9601	yes
+esnifar	esnifaba	0.9595	yes
+esnifar	esnifadas	0.9574	yes
+esnifar	esnifados	0.9475	yes
+esporádica	esporádico	0.9977	yes
+esporádica	esporádicos	0.9977	yes
+esporádica los fines de semana	los fines de semana	0.9800	yes
+esporádico	esporádica	0.9977	yes
+esporádico	esporádicos	0.9974	yes
+esporádicos	esporádica	0.9977	yes
+esporádicos	esporádico	0.9974	yes
+esteroides anabolizantes	esteroides anabólicos	0.9557	yes
+esteroides anabólicos	esteroides anabolizantes	0.9557	yes
+esteroides anabólicos	anabólicos	0.9543	yes
+etílica	etílicos	0.9368	yes
+etílica	etílico	0.9352	yes
+etílica	alcohol etílico	0.8825	yes
+etílicas	etílico	0.8852	yes
+etílicas	etílicos	0.8810	yes
+etílicas	etílica	0.8756	yes
+etílicas	alcohol etílico	0.8557	yes
+etílico	etílicos	0.9647	yes
+etílico	etílica	0.9352	yes
+etílico	alcohol etílico	0.9301	yes
+etílico al 100%	etílico	0.8066	yes
+etílicos	etílico	0.9647	yes
+etílicos	etílica	0.9368	yes
+etílicos	alcohol etílico	0.8921	yes
+ex-alcoholico	ex-alcohólico	0.8849	yes
+ex-alcohólico	ex-alcoholico	0.8849	yes
+ex-bebedor	exbebedor	0.9585	yes
+ex-fumador	ex-fumadora	0.9686	yes
+ex-fumador	exfumador	0.9468	yes
+ex-fumador	exfumadora	0.9115	yes
+ex-fumador	ex-tabaquista	0.8980	yes
+ex-fumadora	ex-fumador	0.9686	yes
+ex-fumadora	exfumadora	0.9443	yes
+ex-fumadora	exfumador	0.9324	yes
+ex-fumadora	ex-tabaquista	0.9285	yes
+ex-fumadora	extabaquista	0.8879	yes
+ex-tabaquista	extabaquista	0.9336	yes
+ex-tabaquista	ex-fumadora	0.9285	yes
+ex-tabaquista	ex-fumador	0.8980	yes
+ex-udvp	udvp	0.8779	yes
+exadvp	advp	0.8921	yes
+exbebedor	ex-bebedor	0.9585	yes
+exbebedor	bebedora	0.8723	yes
+excesivo	excesivamente	0.9940	yes
+excesivos	excesivo	0.9874	yes
+exenolismo	enolismo	0.9116	yes
+exenolismo	enolísmo	0.8840	yes
+exfumador	exfumadora	0.9746	yes
+exfumador	ex-fumador	0.9468	yes
+exfumador	ex-fumadora	0.9324	yes
+exfumador	tabaquista	0.8728	yes
+exfumadora	exfumador	0.9746	yes
+exfumadora	ex-fumadora	0.9443	yes
+exfumadora	ex-fumador	0.9115	yes
+exfumadora	tabaquista	0.9113	yes
+exfumadores	exfumadora	0.8716	yes
+exfumadores	extabaquista	0.8704	yes
+exfumadores	exfumador	0.8682	yes
+exfumadores	ex-fumadora	0.8602	yes
+exfumadores	tabaquista	0.8557	yes
+extabaquista	ex-tabaquista	0.9336	yes
+extabaquista	tabaquista	0.9274	yes
+extabaquista	exfumadora	0.8888	yes
+extabaquista	ex-fumadora	0.8879	yes
+ex−advp	advp	0.8600	yes
+fenciclidina	fenciclidina (pcp	0.9096	yes
+fenciclidina (pcp	fenciclidina	0.9096	yes
+fentanil	furanil fentanil	0.8758	yes
+fermentados	destilados y fermentados	0.8734	yes
+fermentados	bebidas fermentadas	0.8647	yes
+fin de semana	patrón fin de semana	0.9659	yes
+fin de semana	el fin de semana	0.9638	yes
+fin de semana	algún fin de semana	0.9614	yes
+fin de semana	de fin de semana	0.9601	yes
+fin de semana	en fin de semana	0.9584	yes
+fines de semana	fines de semana esporádicos	0.9731	yes
+fines de semana	de fines de semana	0.9632	yes
+fines de semana	los fines de semana	0.9581	yes
+fines de semana	fin de semana	0.9554	yes
+fines de semana	en fines de semana	0.9553	yes
+fines de semana esporádicos	fines de semana	0.9731	yes
+forma ocasional	de forma ocasional	0.9115	yes
+frecuente	frecuentemente	0.9633	yes
+frecuentemente	frecuente	0.9633	yes
+fuma	fumadoras	0.9930	yes
+fuma	fumadores	0.9922	yes
+fumada	fumados	0.9686	yes
+fumada	vía fumada	0.9341	yes
+fumada/inhalada	vía fumada/inhalada	0.9778	yes
+fumador	fumar	0.9795	yes
+fumador	fumadora	0.9718	yes
+fumadora	fumadoras	0.9943	yes
+fumadoras	fumadores	0.9983	yes
+fumadores	fumadoras	0.9983	yes
+fumados	fumada	0.9686	yes
+fumados	vía fumada	0.9215	yes
+fumó	fumada	0.8552	yes
+fumó	fumados	0.8478	yes
+fundamentalmente los fines de semana	principalmente los fines de semana	0.9957	yes
+fundamentalmente los fines de semana	los fines de semana	0.9808	yes
+furanil fentanil	furanil fentanilo	0.9166	yes
+furanil fentanil	fentanil	0.8758	yes
+furanil fentanilo	furanil fentanil	0.9166	yes
+fármaco	drogas	0.9652	yes
+ghb	ghb líquido	0.9658	yes
+ghb líquido	ghb	0.9658	yes
+grandes cantidades	en grandes cantidades	0.9446	yes
+ha bebido	bebido	0.8753	yes
+haber masticado	masticaba	0.8197	yes
+habitual	habituales	0.9834	yes
+habitual	habitualmente	0.9179	yes
+habitual los fines de semana	los fines de semana	0.9761	yes
+habituales	habitual	0.9834	yes
+habituales	habitualmente	0.9406	yes
+hace 10 años	hace unos 10 años	0.9569	yes
+hace 14 años	hasta hace 14 años	0.9585	yes
+hace 2 semanas	último consumo hace 2 semanas	0.9001	yes
+hace 2 semanas	2 semanas	0.8958	yes
+hace 3	hasta hace 3	0.9391	yes
+hace 3 años	hasta hace 3 años	0.9560	yes
+hace 3 meses	hasta hace 3 meses	0.9520	yes
+hace 4 años	hacía 4 años	0.9673	yes
+hace 4 años	hasta hace 4 años	0.9602	yes
+hace 48 horas	48 horas	0.9301	yes
+hace 5 años	hasta hace 5 años	0.9577	yes
+hace 5 días	5 días	0.8982	yes
+hace 7 años	hasta hace 7 años	0.9566	yes
+hace al menos 5 años	hace 5 años	0.9198	yes
+hace años	hace muchos años	0.9274	yes
+hace años	hace 5 años	0.9205	yes
+hace años	hace tres años	0.9186	yes
+hace cinco años	hasta hace cinco años	0.9599	yes
+hace muchos años	hace años	0.9274	yes
+hace muchos años	muchos años	0.9046	yes
+hace más de tres años	hacía más de tres años	0.9795	yes
+hace tres años	hacía tres años	0.9706	yes
+hace tres años	hasta hace tres años	0.9591	yes
+hace un año y medio	hasta hace un año y medio	0.9731	yes
+hace un mes	suspendido hace un mes	0.9636	yes
+hace un mes	hacía aproximadamente un mes	0.9288	yes
+hace un mes y medio	mes y medio	0.9147	yes
+hace unos 10 años	hace 10 años	0.9569	yes
+hace unos meses	unos meses	0.9157	yes
+hace varios años	hace años	0.9169	yes
+hachís	hachís (porros	0.8662	yes
+hachís	cigarros de hachís	0.8617	yes
+hachís	bolas de hachís	0.8610	yes
+hachís	hachis	0.8412	yes
+hachís (porros	hachís	0.8662	yes
+haciéndolo 40 años	por 40 años	0.9832	yes
+haciéndolo 40 años	durante 40 años	0.9539	yes
+hacía 4 años	hace 4 años	0.9673	yes
+hacía 4 años	hasta hace 4 años	0.9398	yes
+hacía aproximadamente un mes	aproximadamente un mes	0.9497	yes
+hacía aproximadamente un mes	hace un mes	0.9288	yes
+hacía más de tres años	hace más de tres años	0.9795	yes
+hacía tres años	hace tres años	0.9706	yes
+hacía tres años	hasta hace tres años	0.9351	yes
+hasta 1 mes	1 mes	0.9156	yes
+hasta 20 gramos	20 gramos	0.8975	yes
+hasta 300 mg	300 mg	0.9275	yes
+hasta hace 14 años	hace 14 años	0.9585	yes
+hasta hace 3	hace 3	0.9391	yes
+hasta hace 3 meses	hace 3 meses	0.9520	yes
+hasta hace cinco años	hace cinco años	0.9599	yes
+hasta hace tres años	hace tres años	0.9591	yes
+hasta hace un año y medio	hace un año y medio	0.9731	yes
+hasta la embriaguez	embriaguez	0.8461	yes
+hasta mayo de 1998	mayo de 1998	0.9347	yes
+hasta octubre de 2012	octubre de 2012	0.9424	yes
+hasta una cajetilla	una cajetilla	0.9675	yes
+hc	thc	0.9395	yes
+heroinómano	heroina	0.7860	yes
+heroínacocaina	mezcla de heroínacocaina	0.9485	yes
+hongos alucinógenos	chocolates con hongos alucinógenos	0.8247	yes
+hongos psilocybe cubensis	psilocybe cubensis	0.9752	yes
+hormona de crecimiento	hormona de crecimiento (hc	0.8895	yes
+hormona de crecimiento (hc	hormona de crecimiento	0.8895	yes
+hábito enólico	hábitos enólico	0.9676	yes
+hábitos enólico	hábito enólico	0.9676	yes
+hábitos tóxicos	otros hábitos tóxicos	0.9322	yes
+i.v.	vía i.v	0.9541	yes
+importante	importantes	0.9825	yes
+importantes	importante	0.9825	yes
+ingerir	ingiere	0.9864	yes
+ingerir	ingerido	0.9799	yes
+ingerir	ingestión	0.9793	yes
+ingesta diaria	tomas diarias	0.9377	yes
+ingiere	ingerir	0.9864	yes
+inhalaba	inhaladas	0.8696	yes
+inhalaciones	inhalación	0.9892	yes
+inhalación	inhalaciones	0.9892	yes
+inhalada	inhalados	0.9831	yes
+inhalada intranasal	intranasal	0.9408	yes
+inhalado	inhalada	0.9793	yes
+inhalado	inhalados	0.9693	yes
+inhalando	inhalándola	0.9256	yes
+inhalantes	inhalantes orgánicos	0.9575	yes
+inhalantes orgánicos	inhalantes	0.9575	yes
+inhalar	inhaladas	0.8821	yes
+inhalándola	inhalando	0.9256	yes
+inicia a la edad de 16 años	a la edad de 16 años	0.9813	yes
+iniciado a los 15 años	a los 15 años	0.9709	yes
+iniciado a los 18 años	a los 18 años	0.9737	yes
+inicio 12 años	12 años	0.9402	yes
+inicio a los 16	inicio a los 16 años	0.9355	yes
+inicio a los 16	a los 16	0.9334	yes
+inicio a los 25	a los 25	0.9255	yes
+inicio con 12 años	con 12 años cumplidos	0.9431	yes
+inicio en 2004	en 2004	0.9179	yes
+inicio en 2005	en 2005	0.9198	yes
+inicio en 2005	en el año 2005	0.9087	yes
+inicio hace 10 años aprox	hace unos 10 años	0.9216	yes
+insufló e inyectó	inyectó	0.7861	yes
+intoxicaciones	intoxicación	0.9796	yes
+intoxicación	intoxicaciones	0.9796	yes
+intoxicada	intoxicarse	0.8792	yes
+intoxicarse	intoxicada	0.8792	yes
+intoxicarse	intoxicaba	0.8565	yes
+intranasal	inhalada intranasal	0.9408	yes
+intranasal	vía intranasal	0.9168	yes
+intravenosa	intravenoso	0.9703	yes
+intravenosa	endovenoso	0.9613	yes
+intravenoso	intravenosos	0.9946	yes
+intravenoso	endovenosa	0.9930	yes
+intravenoso	intravenous	0.9928	yes
+intravenoso slam	slam	0.8863	yes
+intravenosos	intravenous	0.9968	yes
+intravenous	intravenosos	0.9968	yes
+intrravenoso	por vía no intravenosa	0.7970	yes
+inyecciones	inyección	0.9727	yes
+inyecciones	inyecta	0.9694	yes
+inyección	inyecta	0.9749	yes
+inyección	inyecciones	0.9727	yes
+inyecta	inyectado	0.9764	yes
+inyecta	inyección	0.9749	yes
+inyecta	inyecciones	0.9694	yes
+inyectable	inyecta	0.9353	yes
+inyectada	inyectados	0.9543	yes
+inyectada	inyectó	0.9032	yes
+inyectados	inyectada	0.9543	yes
+inyectados	inyectó	0.8828	yes
+inyectó	se inyectó	0.9127	yes
+inyectó	inyectada	0.9032	yes
+inyectó	inyectados	0.8828	yes
+irregular	regular	0.9926	yes
+la noche de antes	la noche previa	0.9366	yes
+la noche previa	la noche de antes	0.9366	yes
+larga data	de larga data	0.8761	yes
+llegando a 10-12 porros	10-12 porros	0.9390	yes
+llegando a los 7-8 cubatas	7-8 cubatas	0.9100	yes
+lo inició a los 14 años	a los 14 años	0.9294	yes
+los 25 años	a los 25 años	0.9389	yes
+los 25 años	hasta los 25 años	0.9368	yes
+los 25 años	desde los 25 años	0.9281	yes
+los 25 años	durante 25 años	0.9199	yes
+los 25 años	hace 25 años	0.9153	yes
+los fi nes de semana	en fin de semana	0.8222	yes
+los fines de semana	principalmente los fines de semana	0.9812	yes
+los fines de semana	fundamentalmente los fines de semana	0.9808	yes
+los fines de semana	esporádica los fines de semana	0.9800	yes
+los fines de semana	ocasional los fines de semana	0.9774	yes
+los fines de semana	habitual los fines de semana	0.9761	yes
+los últimos 3 meses	últimos 3 meses	0.9381	yes
+lsd (dietilamida de ácido lisérgico	dietilamida de ácido lisérgico	0.9358	yes
+manera diaria	a diario	0.9172	yes
+mantiene durante 3 años	durante 3 años	0.9432	yes
+mayo de 1998	desde mayo de 1998	0.9480	yes
+mayo de 1998	hasta mayo de 1998	0.9347	yes
+mdma	mdma (éxtasis	0.8822	yes
+mdma	mdma y derivados	0.8704	yes
+mdma (3,4-metilendioximetanfetamina	3,4-metilendioximetanfetamina	0.9611	yes
+mdma (extasis	mdma (éxtasis	0.9726	yes
+mdma (extasis	mdma	0.8673	yes
+mdma (éxtasis	mdma (extasis	0.9726	yes
+mdma (éxtasis	mdma	0.8822	yes
+mdma y derivados	mdma	0.8704	yes
+media cajetilla	una cajetilla	0.9632	yes
+medio a un gramo	de medio a un gramo	0.9665	yes
+mefedrona	mefedrona cristalina	0.9730	yes
+mefedrona	mefredrona	0.9522	yes
+mefedrona	cuando utiliza mefedrona	0.9143	yes
+mefedrona	mephedrone	0.8656	yes
+mefedrona cristalina	mefedrona	0.9730	yes
+mefedrona cristalina	mefredrona	0.9409	yes
+mefedrona cristalina	mephedrone	0.8742	yes
+mefredrona	mefedrona	0.9522	yes
+mefredrona	mefedrona cristalina	0.9409	yes
+mefredrona	cuando utiliza mefedrona	0.8731	yes
+mefredrona	mephedrone	0.8665	yes
+mephedrone	mefedrona cristalina	0.8742	yes
+mephedrone	mefredrona	0.8665	yes
+mephedrone	mefedrona	0.8656	yes
+mephedrone	cuando utiliza mefedrona	0.8381	yes
+meprobamato	metabolitos de meprobamato	0.9430	yes
+mes de junio	en el mes de junio	0.9150	yes
+mes y medio	hace un mes y medio	0.9147	yes
+metaanfetaminas	metanfetaminas	0.9320	yes
+metaanfetaminas	amfetaminas	0.9058	yes
+metaanfetaminas	metanfetaminas (cristal	0.8944	yes
+metabolitos de meprobamato	meprobamato	0.9430	yes
+metafetamina	metamfetamina	0.9320	yes
+metafetamina	metanfetamina	0.9320	yes
+metamfetamina	metafetamina	0.9320	yes
+metamfetamina	metanfetamina de cristal	0.8657	yes
+metanfetamina	metanfetamina cristalina	0.9536	yes
+metanfetamina	metafetamina	0.9320	yes
+metanfetamina	metanfetamina de cristal	0.8919	yes
+metanfetamina	metanfetaminas	0.8905	yes
+metanfetamina	ácido y metanfetamina	0.8828	yes
+metanfetamina cristalina	metanfetamina	0.9536	yes
+metanfetamina cristalina	metanfetamina de cristal	0.9445	yes
+metanfetamina cristalina	cristal de metanfetamina	0.9278	yes
+metanfetamina de cristal	cristal de metanfetamina	0.9518	yes
+metanfetamina de cristal	metanfetamina cristalina	0.9445	yes
+metanfetaminas	metaanfetaminas	0.9320	yes
+metanfetaminas	amfetaminas	0.9282	yes
+metanfetaminas	metanfetaminas (cristal	0.8989	yes
+metanfetaminas	metanfetamina	0.8905	yes
+metanfetaminas (cristal	metanfetaminas	0.8989	yes
+metanfetaminas (cristal	metaanfetaminas	0.8944	yes
+metanfetaminas (cristal	amfetaminas	0.8875	yes
+mezcla de heroínacocaina	heroínacocaina	0.9485	yes
+moderada	moderado	0.9922	yes
+moderado	moderada	0.9922	yes
+mucha frecuencia	con mucha frecuencia	0.9290	yes
+mucha frecuencia	frecuentemente	0.8798	yes
+mucho	muchísimo	0.9681	yes
+muchos años	hace muchos años	0.9046	yes
+muchos años	durante muchos años	0.8943	yes
+muy esporádica	muy esporádicos	0.9756	yes
+muy esporádicos	muy esporádica	0.9756	yes
+más de 10 años	durante más de 10 años	0.9378	yes
+más de 10 años/paquete	10 años/paquete	0.9363	yes
+más de 2 paquetes/día	2 paquetes/día	0.9451	yes
+más de 20 cigarrillos/día	20 cigarrillos/día	0.9425	yes
+más de 20 cigarrillos/día	20 cigarrillos/ día	0.9407	yes
+más frecuentes	frecuente	0.8722	yes
+máximo medio gramo	medio gramo	0.9245	yes
+máximo: 8 porros	8 porros	0.9122	yes
+mórficos	cloruro mórfico	0.8519	yes
+múltiples drogas	múltiples fármacos	0.9251	yes
+múltiples fármacos	múltiples drogas	0.9251	yes
+múltiples sustancias psicoactivas	sustancias psicoactivas	0.9288	yes
+naloxona	buprenorfina- naloxona	0.8790	yes
+naloxona	buprenorfina/ naloxona	0.8702	yes
+naloxona	buprenorfina-naloxona	0.8641	yes
+naloxona	buprenorfina/naloxona	0.8518	yes
+naltrexona	naltrexona (pmn	0.9048	yes
+naltrexona	clonidina/naltrexona	0.8427	yes
+naltrexona (pmn	naltrexona	0.9048	yes
+nandrolona	decanoato de nandrolona	0.8928	yes
+no a diario	a diario	0.9253	yes
+no a diario	no diario	0.9213	yes
+no consumidora	consumidora	0.9322	yes
+no diario	no a diario	0.9213	yes
+noche previa al ingreso	antes del ingreso	0.9182	yes
+nordiazepam	diazepán	0.8830	yes
+nunca consumió más de un paquete de cigarrillos	un paquete de cigarrillos	0.8688	yes
+ocasional	ocasionales	0.9943	yes
+ocasionales	ocasional	0.9943	yes
+ocasionalmente	ocasional	0.9680	yes
+ocasionalmente	ocasionales	0.9646	yes
+octubre 2012	octubre de 2012	0.9373	yes
+octubre 2012	en octubre de 2012	0.8779	yes
+octubre 2012	octubre	0.8766	yes
+octubre de 2012	en octubre de 2012	0.9656	yes
+octubre de 2012	hasta octubre de 2012	0.9424	yes
+oh-α-pvp	α-pvp	0.9492	yes
+opiaceos	opiáceo	0.8059	yes
+opioide	opioides	0.9958	yes
+opioides	opioide	0.9958	yes
+opiácea	opiáceo	0.9767	yes
+opiáceo	opiácea	0.9767	yes
+opiáceo	sustitutivo opiáceo	0.9304	yes
+opiáceo	antagonista opiáceo	0.9197	yes
+os fines de semana	fines de semana	0.8980	yes
+otra droga	otro fármaco	0.9564	yes
+otra droga recreativa	cualquier otra droga recreativa	0.9565	yes
+otra droga recreativa	otras drogas recreativas	0.9031	yes
+otras drogas de abuso	drogas de abuso	0.9553	yes
+otras sustancias	demás sustancias	0.9454	yes
+otras sustancias de abuso	sustancias de abuso	0.9451	yes
+otras sustancias de abuso que las referidas	otras sustancias de abuso	0.9221	yes
+otras sustancias psicótropas	sustancias psicotropas	0.9274	yes
+otras sustancias psicótropas	sustancias psicotrópicas	0.8697	yes
+otro fármaco	otra droga	0.9564	yes
+otro opiáceo	opiáceo	0.9124	yes
+otros hábitos tóxicos	hábitos tóxicos	0.9322	yes
+paracetamol/ codeina	paracetamol/codeína	0.9167	yes
+paracetamol/ codeina	codeina	0.8364	yes
+paracetamol/codeína	paracetamol/ codeina	0.9167	yes
+parches transdérmicos de fentanilo	transdérmico	0.8197	yes
+pasta base de cocaína	pasta base de cocaína (pbc	0.8935	yes
+pasta base de cocaína	pasta base	0.8783	yes
+pasta base de cocaína (pbc	pasta base de cocaína	0.8935	yes
+pastilla	pastillas	0.9865	yes
+pastillas	pastilla	0.9865	yes
+patrón fin de semana	de fin de semana	0.9668	yes
+patrón fin de semana	fin de semana	0.9659	yes
+poli toxicomanía	toxicomanía	0.9403	yes
+poli toxicomanía	drogadicción	0.8547	yes
+policonsumidor	policonsumidora	0.9147	yes
+policonsumidora	policonsumidor	0.9147	yes
+policonsumo	policonsumos	0.9693	yes
+policonsumos	policonsumo	0.9693	yes
+politoxicomanía	politoxicómano	0.9017	yes
+politoxicómano	politoxicómanos	0.9856	yes
+politoxicómano	politoxicomanía	0.9017	yes
+politoxicómano	toxicómano	0.8100	yes
+politoxicómanos	politoxicómano	0.9856	yes
+politoxicómanos	toxicómano	0.8027	yes
+popper	poppers	0.9556	yes
+poppers	popper	0.9556	yes
+por 1 año	durante 1 año	0.9493	yes
+por 1 año	1 año	0.9175	yes
+por 30 años	durante 30 años	0.9449	yes
+por 40 años	haciéndolo 40 años	0.9832	yes
+por 40 años	durante 40 años	0.9758	yes
+por 5 años	durante 5 años	0.9527	yes
+por 5 años	5 años	0.9286	yes
+por año	al año	0.9315	yes
+por día	al día	0.9277	yes
+por varios años	durante varios años	0.9544	yes
+por vía endovenosa	por vía intravenosa	0.9644	yes
+por vía endovenosa	por vía no intravenosa	0.9414	yes
+por vía esnifada	esnifada	0.8860	yes
+por vía intravenosa	por vía endovenosa	0.9644	yes
+por vía intravenosa	por vía no intravenosa	0.9498	yes
+por vía no intravenosa	por vía intravenosa	0.9498	yes
+por vía no intravenosa	por vía endovenosa	0.9414	yes
+por vía oral	vía oral	0.9422	yes
+porro	porros	0.9588	yes
+porros	porro	0.9588	yes
+positivo	positivos	0.9472	yes
+principalmente los fines de semana	fundamentalmente los fines de semana	0.9957	yes
+prácticamente a diario	prácticamente diario	0.9314	yes
+prácticamente a diario	a diario	0.9133	yes
+prácticamente diario	prácticamente a diario	0.9314	yes
+prácticamente todas las semanas	todas las semanas	0.9428	yes
+psicotropos	psicotrópicos	0.9626	yes
+psicotrópicos	psicotropos	0.9626	yes
+psilocybe cubensis	hongos psilocybe cubensis	0.9752	yes
+puntual	puntuales	0.9974	yes
+puntuales	puntual	0.9974	yes
+puntuales de un día en fin de semana	un día en fin de semana	0.9749	yes
+recaer	recayó	0.9064	yes
+recaer	recaído	0.8851	yes
+recaer	recaidas	0.8546	yes
+recayó	recaído	0.9346	yes
+recayó	recaer	0.9064	yes
+recaída	recaídas	0.9888	yes
+recaídas	recaída	0.9888	yes
+recaído	recayó	0.9346	yes
+recaído	recaer	0.8851	yes
+red bull	un red bull	0.9345	yes
+red bull	energizarte tipo red bull	0.8157	yes
+regular	irregular	0.9926	yes
+regularmente	regular	0.9804	yes
+resto de tóxicos	resto de sustancias tóxicas	0.9008	yes
+rohipnol	rohipnol®	0.9621	yes
+rohipnol®	rohipnol	0.9621	yes
+se inyectó	inyectó	0.9127	yes
+se inyectó	inyectada	0.8336	yes
+se inyectó	inyectados	0.8163	yes
+seis porros	porros	0.8953	yes
+semana	semanal	0.9658	yes
+semana	semanalmente	0.9535	yes
+semanal	semanalmente	0.9889	yes
+semanalmente	semanal	0.9889	yes
+semiintoxicado	intoxicada	0.7779	yes
+slam	intravenoso slam	0.8863	yes
+sobre todo el fin de semana	el fin de semana	0.9270	yes
+sobrio	sobria	0.9065	yes
+solo dos ocasiones	en sólo dos ocasiones	0.9317	yes
+solventes	disolventes orgánicos	0.8735	yes
+solía consumir	consumir	0.9122	yes
+speed	speedball	0.9665	yes
+speed	anfetamina (speed	0.8131	yes
+speedball	speed	0.9665	yes
+suboxone	suboxone®	0.9460	yes
+suboxone®	suboxone	0.9460	yes
+sulfato de anfetamina ("speed	sulfato de anfetamina	0.8646	yes
+suspendido hace un mes	hace un mes	0.9636	yes
+sustancia	sustancias	0.9888	yes
+sustancias	sustancia	0.9888	yes
+sustancias de abuso	varias sustancias de abuso	0.9480	yes
+sustancias de abuso	otras sustancias de abuso	0.9451	yes
+sustancias psicoactivas	otras sustancias psicoactivas	0.9364	yes
+sustancias psicotropas	sustancias psicotrópicas	0.9285	yes
+sustancias psicotropas	otras sustancias psicótropas	0.9274	yes
+sustancias psicotrópicas	sustancias psicotropas	0.9285	yes
+sustancias psicotrópicas	otras sustancias psicótropas	0.8697	yes
+sustitutivo opiáceo	opiáceo	0.9304	yes
+tabaquista	extabaquista	0.9274	yes
+tabaquista	exfumadora	0.9113	yes
+tabaquista	fumador	0.8969	yes
+tan elevado	elevado	0.8545	yes
+tan elevado	alto	0.8336	yes
+tetrahidrocanabinol	tetrahidrocannabinol	0.9346	yes
+tetrahidrocanabinol	delta-9-tetrahidrocannabinol	0.8880	yes
+tetrahidrocannabinol	delta-9-tetrahidrocannabinol	0.9352	yes
+tetrahidrocannabinol	tetrahidrocanabinol	0.9346	yes
+tetrahidrocannabinol	11-hidroxi-delta-9-tetrahidrocannabinol	0.8765	yes
+tetrahidrocannabinol	1-hidroxi-delta-9-tetrahidrocannabinol	0.8710	yes
+thc	hc	0.9395	yes
+thc	cannabis (thc	0.8478	yes
+todas las semanas	prácticamente todas las semanas	0.9428	yes
+todas las semanas	cada semana	0.8935	yes
+todos los días	casi todos los días	0.9476	yes
+todos los fines de semana	casi todos los fines de semana	0.9762	yes
+tomas diarias	ingesta diaria	0.9377	yes
+toxicológica	toxicológicos	0.9683	yes
+toxicológica	toxicológicas	0.9633	yes
+toxicológica	análisis toxicológicos	0.9107	yes
+toxicológicas	toxicológica	0.9633	yes
+toxicológicas	toxicológicos	0.9548	yes
+toxicológicas	análisis toxicológicos	0.8888	yes
+toxicológicos	toxicológica	0.9683	yes
+toxicológicos	toxicológicas	0.9548	yes
+toxicológicos	análisis toxicológicos	0.9413	yes
+toxicomanía	poli toxicomanía	0.9403	yes
+toxicomanía	drogadicción	0.9007	yes
+toxicomanía	toxicomanías	0.8938	yes
+toxicomanías	toxicomanía	0.8938	yes
+toxicos	distintos tóxicos	0.8803	yes
+toxicos	muchos tóxicos	0.8784	yes
+toxicos	hábitos tóxicos	0.8631	yes
+toxicómano	toxicómanos	0.9604	yes
+toxicómano	politoxicómano	0.8100	yes
+toxicómano	toxicomanía	0.8039	yes
+toxicómanos	toxicómano	0.9604	yes
+trankimazines	trankimazín	0.9791	yes
+trankimazín	trankimazines	0.9791	yes
+transdérmico	parches transdérmicos de fentanilo	0.8197	yes
+tres a cuatro días a la semana	cuatro días a la semana	0.9623	yes
+tres años	hacía tres años	0.8982	yes
+tres años	hace tres años	0.8940	yes
+tres días	cada tres días	0.9297	yes
+tres días	duró tres días	0.9237	yes
+tres veces por semana	alrededor de tres veces por semana	0.9444	yes
+tres veces por semana	dos o tres veces por semana	0.9444	yes
+trihexifenidilo	clorhidrato de trihexifenidilo	0.9721	yes
+tóxico	tóxicos	0.9884	yes
+tóxicos	tóxico	0.9884	yes
+ube	4 ube	0.9121	yes
+ube	5 ube	0.9072	yes
+ube	15 ube	0.8956	yes
+ube	31 ube	0.8902	yes
+ube	3 ube	0.8837	yes
+udvp	ex-udvp	0.8779	yes
+un día en fin de semana	puntuales de un día en fin de semana	0.9749	yes
+un mes	aproximadamente un mes	0.9303	yes
+un red bull	red bull	0.9345	yes
+una bebida mezclada	bebida mezclada	0.9207	yes
+una cajetilla	hasta una cajetilla	0.9675	yes
+una cajetilla	media cajetilla	0.9632	yes
+una semana	durante una semana	0.9330	yes
+una vez a la semana	al menos una vez a la semana	0.9552	yes
+una vez a la semana	una vez por semana	0.9513	yes
+una vez al mes	vez al mes	0.9562	yes
+una vez por semana	una vez a la semana	0.9513	yes
+unas 15 ube	15 ube	0.9211	yes
+unos 20 cigarrillos	20 cigarrillos	0.9271	yes
+unos 20 cigarrillos	20 cigarros	0.9142	yes
+unos 40 cigarros/día	40 cigarrillos/día	0.9571	yes
+unos 8 porros	8 porros	0.9471	yes
+unos meses	durante unos meses	0.9220	yes
+unos meses	hace unos meses	0.9157	yes
+unos meses	unos meses después	0.9141	yes
+unos meses después	unos meses	0.9141	yes
+uso intravenoso	uso	0.9096	yes
+v.o	v.o.	0.9708	yes
+v.o.	v.o	0.9708	yes
+vapeo ("vaping	vapeo	0.8366	yes
+varias sustancias de abuso	sustancias de abuso	0.9480	yes
+varias veces a la semana	1 o dos varias veces a la semana	0.9335	yes
+vez al mes	una vez al mes	0.9562	yes
+vía endovenosa	vía intravenosa	0.9560	yes
+vía esnifada	esnifada	0.9609	yes
+vía esnifada	esnifado	0.9534	yes
+vía esnifada	esnifados	0.9477	yes
+vía esnifada	esnifadas	0.9411	yes
+vía fumada	fumada	0.9341	yes
+vía fumada	fumados	0.9215	yes
+vía fumada/inhalada	fumada/inhalada	0.9778	yes
+vía i.v	i.v.	0.9541	yes
+vía intranasal	intranasal	0.9168	yes
+vía intravenosa	vía endovenosa	0.9560	yes
+vía oral	por vía oral	0.9422	yes
+whisky	1 whisky	0.9082	yes
+whisky	wisky	0.8457	yes
+± ¼ gramo	¼ gramo	0.9139	yes
+¼ gramo	± ¼ gramo	0.9139	yes
+¾ botella	¾ de botella	0.8917	yes
+¾ de botella	¾ botella	0.8917	yes
+ácido gamma-hidroxibutírico	ácidogamma-hidroxibutírico	0.9736	yes
+ácido lisérgico	derivados del ácido lisérgico	0.8978	yes
+ácido y metanfetamina	metanfetamina	0.8828	yes
+ácidogamma-hidroxibutírico	ácido gamma-hidroxibutírico	0.9736	yes
+último año	el último año	0.9259	yes
+último año	iniciado el último año	0.8868	yes
+último consumo a los 15 años	a los 15 años	0.9265	yes
+último consumo el día 11 de febrero de 2013	11 de febrero de 2013	0.8966	yes
+último consumo hace 2 semanas	hace 2 semanas	0.9001	yes
+últimos 3 meses	los últimos 3 meses	0.9381	yes
+α-pvp	oh-α-pvp	0.9492	yes

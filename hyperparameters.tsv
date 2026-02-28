@@ -1,0 +1,7 @@
+checkpoint_name	task	lr	batch_size	num_epochs	weight_decay	warmup_ratio	dropout	max_length	seed	train_size	val_size	val_f1	notes
+A1_BETO_toxner_opt_v1_best.pt	toxner	2.8749e-05	4	8	0.0634	0.1229	0.2267	512	42	960	239	0.8282	Optuna 15 trials
+A1_BETO_toxuse_opt_v1_best.pt	toxuse	4.2775e-05	4	9	0.0742	0.1946	0.2505	512	42	960	239	0.7384	Optuna 15 trials
+A2_bsc_toxner_opt_v1_best.pt	toxner	4.9845e-05	8	10	0.0986	0.0524	0.1821	512	42	960	239	0.8353	Optuna 15 trials
+A2_bsc_toxuse_opt_v1_best.pt	toxuse	4.5202e-05	4	7	0.0903	0.0989	0.1008	512	42	960	239	0.7396	Optuna 15 trials
+A2_bsc_toxner_opt_params_aug_best.pt	toxner	4.98e-05	8	10	0.0986	0.0524	—	512	42	1701	425	0.9699	train_dir=merged_train/toxner; params from opt_v1
+A2_bsc_toxuse_opt_params_aug_best.pt	toxuse	4.52e-05	4	7	0.0903	0.0989	—	512	42	2401	600	0.9581	train_dir=merged_train/toxuse; params from opt_v1
